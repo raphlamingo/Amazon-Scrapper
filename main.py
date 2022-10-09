@@ -2,7 +2,7 @@ import requests
 import lxml
 from bs4 import BeautifulSoup
 import smtplib
-my_mail = 'igwerapheal2222@gmail.com'
+my_mail = '#insert email'
 password = '123PZass.'
 send_to= 'igerapheal2@gmail.com'
 url='https://www.amazon.com/Apple-MacBook-Touch-Intel-Quad-Core/dp/B082J572X8/ref=sr_1_3?keywords=macbook+pro&qid=1652543447&sprefix=macb%2Caps%2C1495&sr=8-3'
